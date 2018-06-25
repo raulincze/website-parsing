@@ -1,0 +1,3 @@
+ ,SVM,Neural Network,XGBoost
+ Full features,72.42%,92.42%,100%
+ Small feature set,too embarrasing,60.71%,64.85%
